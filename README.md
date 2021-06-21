@@ -54,8 +54,8 @@
 
 
 ## 영상참고강의
-https://www.youtube.com/channel/UChdXU5k2Jll8P40Lprca2mA/videos (샘플강의)
-https://www.stz.co.kr/page.php?menuSeq=181 (유료강의)
+https://www.youtube.com/channel/UChdXU5k2Jll8P40Lprca2mA/videos (샘플강의)   
+https://www.stz.co.kr/page.php?menuSeq=181 (유료강의)   
 
 
 ## 참고사이트

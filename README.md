@@ -59,12 +59,12 @@ https://www.stz.co.kr/page.php?menuSeq=181 (유료강의)
 
 
 ## 참고사이트
-https://cafe.naver.com/sdk800402(아라공 네이버CAFE)
-https://lars96.tistory.com/3?category=891099 (CCIE관련)
-https://densan-hoshigumi.com/other/infra-engineer-roadmap#i (캐리어업플랜)
-https://monetd.github.io/review/2020-CCNP-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0/#%EA%B0%9C%EC%9A%94(CCNP 후기 )
-https://jeonsung.tistory.com/12?category=395973 (집에서 CCNP 시험치기  접수관련 안내)
-https://jeonsung.tistory.com/11 (CCNA 피어슨뷰 시험접수관련)
-https://jeonsung.tistory.com/12?category=395973 (온뷰 시험접수관련)
+https://cafe.naver.com/sdk800402(아라공 네이버CAFE)   
+https://lars96.tistory.com/3?category=891099 (CCIE관련)   
+https://densan-hoshigumi.com/other/infra-engineer-roadmap#i (캐리어업플랜)   
+https://monetd.github.io/review/2020-CCNP-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0/#%EA%B0%9C%EC%9A%94(CCNP 후기 )   
+https://jeonsung.tistory.com/12?category=395973 (집에서 CCNP 시험치기  접수관련 안내)   
+https://jeonsung.tistory.com/11 (CCNA 피어슨뷰 시험접수관련)   
+https://jeonsung.tistory.com/12?category=395973 (온뷰 시험접수관련)   
 
 
